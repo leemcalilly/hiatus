@@ -1,4 +1,4 @@
-# Original Fuzz Website
+# Original Fuzz Hiatus Website
 
 A single-page static website for originalfuzz.com, deployed on GitHub Pages.
 
